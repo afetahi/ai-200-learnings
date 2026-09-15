@@ -13,6 +13,7 @@ For each exam domain I work through the official Microsoft Learn labs, then cons
 | Domain | Runbook | Status |
 |---|---|---|
 | Container application hosting (ACR, App Service, sidecars) | [container-hosting-runbook.md](container-hosting-runbook.md) | Done |
+| Deploy & manage apps on Azure Container Apps (deploy, manage, scale) | [container-apps-runbook.md](container-apps-runbook.md) | In progress |
 | AI solutions with data management services | _coming_ | |
 | Connect to and consume Azure services | _coming_ | |
 | Secure, monitor, and troubleshoot | _coming_ | |
